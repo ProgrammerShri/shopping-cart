@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 1199,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 3,
+    "name": "Pen",
+    "price": 1.05,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 4,
+    "name": "Phone",
+    "price": 14000,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 5,
+    "name": "Table",
+    "price": 1000,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 6,
+    "name": "Chair",
+    "price": 100,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 7,
+    "name": "Lamp",
+    "price": 50,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 8,
+    "name": "Cup",
+    "price": 5,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 9,
+    "name": "Bottle",
+    "price": 10,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 10,
+    "name": "Keyboard",
+    "price": 100,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 11,
+    "name": "Mouse",
+    "price": 50,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 12,
+    "name": "Monitor",
+    "price": 500,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 13,
+    "name": "Headphones",
+    "price": 100,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 14,
+    "name": "Speaker",
+    "price": 200,
+    "imgUrl": "https://picsum.photos/200"
+  },
+  {
+    "id": 15,
+    "name": "Camera",
+    "price": 1000,
+    "imgUrl": "https://picsum.photos/200"
+  }
+]
